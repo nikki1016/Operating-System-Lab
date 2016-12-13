@@ -1,2 +1,3 @@
 # Operating-System-Lab-codes
-This repository consists of implementation of misceleneous OS algorithms.
+
+This repository consists of implementation of miscelleneous OS algorithms.
